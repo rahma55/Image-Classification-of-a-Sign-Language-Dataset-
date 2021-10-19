@@ -9,3 +9,6 @@
 <h1> Dataset </h1>
 The dataset is constituted of images of hands making letters in American Sign Language. It contains 26 letters. Two of those letters (j and z) require movement, so they are not included in the training dataset.  </br>
 (link to the American Sign Language alphabet: http://www.asl.gs/ )  
+
+</br>
+This dataset is available from the website Kaggle
