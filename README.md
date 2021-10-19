@@ -1,8 +1,8 @@
 # Image-Classification-of-a-Sign-Language-Dataset
 
 <h1> Objectives </h1>
-* Prepare image data for training
-* Create and compile a simple model for image classification
+* Prepare image data for training  </br>
+* Create and compile a simple model for image classification </br>
 * Train an image classification model and observe the results
 
 </br>
